@@ -6,7 +6,7 @@ You can create your own html dataset exploiting this package.
 - os
 
 ## inputs 
-- Your own URL list in list data structure.
+- Your own URLs in a list.
 - A folder name. 
 
 ## output
